@@ -9,18 +9,18 @@
   },
   {
     "nome": "Treino C",
-    "exercicios": 11
-  },
-  {
-    "nome": "Treino D",
-    "exercicios": 7
-  },
-  {
-    "nome": "Treino E",
     "exercicios": 6
   },
   {
+    "nome": "Treino D",
+    "exercicios": 4
+  },
+  {
+    "nome": "Treino E",
+    "exercicios": 8
+  },
+  {
     "nome": "Treino F",
-    "exercicios": 9 
+    "exercicios": 3
   }
 ]
